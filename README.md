@@ -1,7 +1,6 @@
 # Python
 ![image](https://github.com/user-attachments/assets/63efb678-c5b1-40de-ad2c-614535da374e)
 
-
 ![image](https://github.com/user-attachments/assets/2983e97f-c330-4ca0-a086-aae6d2184cb5)
 
 ----
